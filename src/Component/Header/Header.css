@@ -1,0 +1,17 @@
+#header-highlight{
+    width: 120px;
+    height: 56px;
+}
+.MenuItem{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+#button-highlight{
+    background: #F9A51A;
+border-radius: 5px;
+
+}

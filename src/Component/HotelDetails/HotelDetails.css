@@ -1,0 +1,30 @@
+.details-highlight{
+    display: flex;
+}
+.room-highlight{
+    width: 50%;
+    padding-left: 5px;
+    padding-top: 3%;
+}
+.map-highlight{
+    width: 50%;
+}
+.img{
+    width: 40%;
+}
+.details{
+    width: 40%;
+    padding-left: 5%;
+}
+.singleRoom{
+    display: flex;
+}
+.singleRoom img{
+    width: 100%;
+}
+.btn-highlight{
+    background-image: linear-gradient(180deg,blue,skyblue);
+    color: wheat;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+}

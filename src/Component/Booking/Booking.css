@@ -1,0 +1,35 @@
+.container{
+    background-image:
+      linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),
+      url('../../images/Image/Rectangle\ 1.png') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 625px;
+    min-width: 1365px;
+    } 
+    .body-style{
+        margin-top: 100px;
+        display: flex;
+    }
+    .description{
+        color: white;
+        padding-left: 5%;
+        width: 50%;
+    }
+    .booking-highlight{
+        width: 50%;
+      margin-left: 15%;
+      margin-right: 20%;
+      background-color: whitesmoke;
+    }
+  #submitButton-highlight{
+    width: 350px;
+    height: 40px;
+    background-image: linear-gradient(180deg,red,tomato);
+    border-radius:5px;
+    border: 1px solid black;
+
+  }
+  .form-highlight{
+      padding-left: 30px;
+  }

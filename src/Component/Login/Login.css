@@ -1,0 +1,27 @@
+.form-handle{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 40px;
+    padding-left: 140px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    width: 500px;
+}
+.loginButton-highlight{
+    color: black;
+   background-image: linear-gradient(185deg, tomato ,red);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.loginWithGoogleFacebook{
+    margin-left: 550px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color: white;
+    padding-right: 50px;
+}
+.img-correctPosition{
+    width: 20px;
+    margin-right: 20px;
+}
